@@ -24,3 +24,5 @@ The password is being hardcoded in the source codes as shown below
 ### The exploit
 
 password is vendorsecretkey
+ 
+![proof!!!](https://github.com/Blahblahlolhahaha/Diva-walkthrough/blob/master/Hardcoding%20Issues/Screenshot%20from%202019-10-11%2002-47-21.png)
