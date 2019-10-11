@@ -22,3 +22,7 @@ do
       cd /data/data/jakhar.aseem.diva/shared_prefs
       cat  jakhar.aseem.diva_preferences.xml
 in the terminal
+
+![phone](https://github.com/Blahblahlolhahaha/Diva-walkthrough/blob/master/Insecure%20Data%20Storage/part%201/Screenshot%20from%202019-10-11%2003-14-08.png)
+
+![terminal](https://github.com/Blahblahlolhahaha/Diva-walkthrough/blob/master/Insecure%20Data%20Storage/part%201/Screenshot%20from%202019-10-11%2003-14-08(1).png)
