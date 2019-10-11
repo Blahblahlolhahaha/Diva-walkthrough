@@ -34,3 +34,7 @@ people to obtain the credit card nnumber of the person
           
 #### The exploit
 To get the credit card number, just adb logcat
+
+![phone](https://github.com/Blahblahlolhahaha/Diva-walkthrough/blob/master/Insecure%20Logging/Screenshot%20from%202019-10-11%2002-26-15(1).jpg)
+
+![log](https://github.com/Blahblahlolhahaha/Diva-walkthrough/blob/master/Insecure%20Logging/Screenshot%20from%202019-10-11%2002-26-15(2).jpg)
