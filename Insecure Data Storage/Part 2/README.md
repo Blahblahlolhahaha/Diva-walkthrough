@@ -25,3 +25,4 @@ To get out the data, just type these commands in the terminal
 
 then open the database to get the username and password using DB browser for sqlite
 
+![yeboi](https://github.com/Blahblahlolhahaha/Diva-walkthrough/blob/master/Insecure%20Data%20Storage/Part%202/Screenshot%20from%202019-10-11%2003-56-43.png)
