@@ -40,8 +40,6 @@ u will see this
         -rw-------  1 u0_a67 u0_a67         35 2019-10-11 06:24 uinfo1241259384763728833tmp
 
 cat the uinfo file
-
-![lewis](https://github.com/Blahblahlolhahaha/Diva-walkthrough/blob/master/Insecure%20Data%20Storage/Part%203/Screenshot_1570775485.png)
         
         generic_x86_64:/data/data/jakhar.aseem.diva # cat  uinfo1241259384763728833tmp
         Lewis Hamilton:GetinthereLewis!!!!
