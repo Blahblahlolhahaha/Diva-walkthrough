@@ -2,7 +2,7 @@
 
 When this activity is started, this screen pops out asking for us to search for an username based on an input from the user
 
-![search page]()
+![search page](https://github.com/Blahblahlolhahaha/Diva-walkthrough/blob/master/Input%20Validation/Part%201/Screenshot_1571189053.png)
 
 Based on the source code, the input is being sent into a sql query which will return all the details of the user
 
@@ -47,7 +47,7 @@ as since 1 is always equal to 1, so the statement will always return true, allow
 
 "--" is to comment out unecessary commands such that they would not be execute
 
-![exploited!!!]()
+![exploited!!!](https://github.com/Blahblahlolhahaha/Diva-walkthrough/blob/master/Input%20Validation/Part%201/Screenshot_1571188643.png)
 
 
             
