@@ -2,9 +2,15 @@
 
 So this time, you will be greeted by a page thats asks you whether you have registered or not.
 
+![greetings](https://github.com/Blahblahlolhahaha/Diva-walkthrough/blob/master/Access%20Control/Part%202/Screenshot%20from%202019-10-18%2009-18-14.png)
+
 If you chose registered, the credentials will come out
 
+![sweet data!](https://github.com/Blahblahlolhahaha/Diva-walkthrough/blob/master/Access%20Control/Part%202/Screenshot%20from%202019-10-18%2009-18-46.png)
+
 If you chose register now, you will be prompted to enter the pin which you have gotten from payatu.com
+
+![register](https://github.com/Blahblahlolhahaha/Diva-walkthrough/blob/master/Access%20Control/Part%202/Screenshot%20from%202019-10-18%2009-18-34.png)
 
 So what if we try the method mentioned in part 1?
 
@@ -41,6 +47,7 @@ so lets try this in the terminal:
     adm shell am start -a jakhar.aseem.diva.VIEW_CREDS2
 
 
+![failed](https://github.com/Blahblahlolhahaha/Diva-walkthrough/blob/master/Access%20Control/Part%202/Screenshot%20from%202019-10-18%2009-24-13.png)
 
 Apparently it doesnt work. Lets look at the source code for VIEW_CREDS2:
 
@@ -84,7 +91,7 @@ so type this in the terminal:
 
 --ez is used to pass a boolean value into the activity
 
-
+![correct!](https://github.com/Blahblahlolhahaha/Diva-walkthrough/blob/master/Access%20Control/Part%202/Screenshot%20from%202019-10-18%2014-20-11.png)
 
 
 
