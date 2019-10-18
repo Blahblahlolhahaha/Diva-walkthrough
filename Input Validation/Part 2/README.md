@@ -5,7 +5,7 @@
 
 When this activity started, a text form pops out, telling you that it will show you any url page that you type inside
 
-
+![URL](https://github.com/Blahblahlolhahaha/Diva-walkthrough/blob/master/Input%20Validation/Part%202/Screenshot_1571356492.jpg)
 
 
 Heres the code:
@@ -36,7 +36,7 @@ the phone by typing url starting wtih "file://"
 
 So Im just gonna type in the url for the .uinfo file we found just now 
 
+![oh yeah](https://github.com/Blahblahlolhahaha/Diva-walkthrough/blob/master/Input%20Validation/Part%202/Screenshot_1571356952.jpg)
 
-
-###THERE YOU GO!
+### THERE YOU GO!
 
