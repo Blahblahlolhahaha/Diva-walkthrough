@@ -148,6 +148,8 @@ Whats the possible keys?
         .dotdot
 These 2 makes the most sense as they made no sense in the library so lets try!
 
+![dotdot](https://github.com/Blahblahlolhahaha/Diva-walkthrough/blob/master/Hardcoding%20Issues/Screenshot_1571386181.png)
+![correct](https://github.com/Blahblahlolhahaha/Diva-walkthrough/blob/master/Hardcoding%20Issues/Screenshot_1571387029.png)
 
 As shown from above, it seems that its olsdfgad;lh!
 
