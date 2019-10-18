@@ -9,6 +9,7 @@ If you chose register now, you will be prompted to enter the pin which you have 
 So what if we try the method mentioned in part 1?
 
 Lets see the source code:
+    
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_access_control2);
@@ -36,7 +37,8 @@ Lets see the source code:
 
 so lets try this in the terminal:
    
-   adm shell am start -a jakhar.aseem.diva.VIEW_CREDS2
+   
+    adm shell am start -a jakhar.aseem.diva.VIEW_CREDS2
 
 
 
