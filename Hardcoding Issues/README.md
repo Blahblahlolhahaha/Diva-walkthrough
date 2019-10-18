@@ -32,7 +32,7 @@ password is vendorsecretkey
 
 
 
-#### Hardcoding issues part 2
+## Hardcoding issues part 2
 
 This time, the string isnt really hardcoded into the code 
 
