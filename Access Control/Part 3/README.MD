@@ -4,6 +4,7 @@ This is a activity acts as a private notes application which stores tge followin
 
 pin set by the user.
 
+![whats the pin?](https://github.com/Blahblahlolhahaha/Diva-walkthrough/blob/master/Access%20Control/Part%203/Screenshot%20from%202019-10-18%2015-05-36.png)
 
 So how to get the notes without knowing the pin of the user?
 
@@ -41,6 +42,7 @@ navigate to the values folder then type:
 
         cat * | grep content://
 
+![uri](https://github.com/Blahblahlolhahaha/Diva-walkthrough/blob/master/Access%20Control/Part%203/Screenshot%20from%202019-10-18%2015-31-20.png)
 
 Yayyyyy we got it!
 
@@ -55,6 +57,6 @@ To query the uri, type this command in the terminal
 
         adb shell content query --uri content://jakhar.aseem.diva.provider.notesproviders/notes
         
-
+![notes](https://github.com/Blahblahlolhahaha/Diva-walkthrough/blob/master/Access%20Control/Part%203/Screenshot%20from%202019-10-18%2015-33-31.png)
 
 Got it!
